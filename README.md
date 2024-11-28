@@ -33,7 +33,7 @@ Follow these steps to set up the project:
 ## Example
 
 ### Input Image:
-![Example Input](images/example_image.png)
+![Example Input](Abnormal-blood-chemistry-and-serology-findings-from-the-initial-blood-sample.png)
 
 ### Output Text:
 ```
